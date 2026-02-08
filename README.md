@@ -1,2 +1,7 @@
-# combinatorial-optimization
-Beginner-friendly implementations of basic combinatorial optimization problems
+# Combinatorial Optimization – Beginner Project
+
+This repository is created to learn combinatorial optimization from scratch
+using simple Python examples.
+
+## Repository Structure
+
